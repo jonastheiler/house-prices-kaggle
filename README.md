@@ -1,6 +1,6 @@
 # house-prices-kaggle
 
-This is a kaggle competetion to predict sales prices and practice feature engineering. It was a very helpful experience to apply what I have learned to real data in a project.
+This is a kaggle competetion to predict sales prices and practice feature engineering. It was a very helpful experience to apply what I have learned to real data in a project. To see the code simply go to [house-prices-kaggle.ipynb](house-prices-kaggle.ipynb).
 
 ## Description
 This was the description on [kaggle.com](https://www.kaggle.com):
